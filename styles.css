@@ -11,6 +11,7 @@ body {
 }
 
 .header {
+  display: flex;
   height: 100px;
   background-color: #1f2937;
 }
@@ -18,4 +19,8 @@ body {
 .header .header-logo {
   font-size: 24px;
   color: #f9faf8;
+}
+
+.navbar {
+  display: flex;
 }
