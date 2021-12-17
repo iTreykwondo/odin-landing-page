@@ -14,3 +14,8 @@ body {
   height: 100px;
   background-color: #1f2937;
 }
+
+.header .header-logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
