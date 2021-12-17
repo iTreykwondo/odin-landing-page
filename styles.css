@@ -24,3 +24,8 @@ body {
 .navbar {
   display: flex;
 }
+
+.navbar li a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
