@@ -9,3 +9,8 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+
+.header {
+  height: 100px;
+  background-color: #1f2937;
+}
