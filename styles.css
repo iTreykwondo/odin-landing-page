@@ -44,6 +44,7 @@ body {
   justify-content: space-around;
   background-color: #1f2937;
   padding-top: 50px;
+  padding-bottom: 120px;
 }
 
 .hero-text {
@@ -51,7 +52,30 @@ body {
   margin-left: 90px;
 }
 
+.hero-title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #f9faf8;
+}
+
+.subtext {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-bottom: 20px;
+}
+
+.sign-up {
+  background-color: #3882f6;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 24px;
+  color: #f9faf8;
+}
+
 .hero-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: lightgray;
   height: 200px;
   width: 500px;
