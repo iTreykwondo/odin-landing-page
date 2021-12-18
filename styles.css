@@ -37,3 +37,13 @@ body {
   color: #e5e7eb;
   text-decoration: none;
 }
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.hero-text {
+  max-width: 360px;
+}
