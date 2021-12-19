@@ -54,13 +54,13 @@ body {
 
 .hero-title {
   font-size: 48px;
-  font-weight: bold;
+  font-weight: bolder;
   color: #f9faf8;
 }
 
 .subtext {
   font-size: 18px;
-  color: #e5e7eb;
+  color: darkgray;
   margin-bottom: 20px;
 }
 
