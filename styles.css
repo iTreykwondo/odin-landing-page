@@ -85,3 +85,21 @@ body {
 .info-title {
   text-align: center;
 }
+
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.item {
+  height: 150px;
+  width: 150px;
+  border-radius: 6px;
+  border: 2px solid blue;
+}
+
+.info-subtext {
+  width: 150px;
+  text-align: center;
+}
