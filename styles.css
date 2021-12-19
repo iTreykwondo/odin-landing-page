@@ -108,3 +108,23 @@ body {
   text-align: center;
   margin-top: 12px;
 }
+
+.quote-container {
+  background-color: #e5e7eb;
+}
+
+.quote {
+  max-width: 850px;
+  margin: 0 auto;
+  font-size: 36px;
+  font-style: italic;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+.author {
+  margin-left: auto;
+  max-width: 700px;
+  font-size: 18px;
+}
