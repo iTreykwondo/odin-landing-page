@@ -152,3 +152,11 @@ body {
 .cta-text p {
   color: #e5e7eb;
 }
+
+.cta-btn button {
+  background-color: #3882f6;
+  border: 2px solid #f9faf8;
+  color: #f9faf8;
+  border-radius: 6px;
+  padding: 6px 24px;
+}
