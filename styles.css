@@ -129,3 +129,18 @@ body {
   max-width: 700px;
   font-size: 18px;
 }
+.cta-outer {
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.cta-inner {
+  width: 50%;
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+  padding: 40px;
+  border-radius: 10px;
+}
