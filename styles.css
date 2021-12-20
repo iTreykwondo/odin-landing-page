@@ -144,3 +144,11 @@ body {
   padding: 40px;
   border-radius: 10px;
 }
+
+.cta-text h2 {
+  color: #f9faf8;
+}
+
+.cta-text p {
+  color: #e5e7eb;
+}
