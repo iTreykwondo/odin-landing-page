@@ -111,6 +111,7 @@ body {
 
 .quote-container {
   background-color: #e5e7eb;
+  padding-bottom: 60px;
 }
 
 .quote {
@@ -124,7 +125,7 @@ body {
 }
 
 .author {
-  margin-left: auto;
+  margin-left: 60%;
   max-width: 700px;
   font-size: 18px;
 }
