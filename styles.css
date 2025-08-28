@@ -11,3 +11,30 @@ body {
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
     sans-serif;
 }
+
+.header {
+  background-color: #1f2937;
+  padding: 20px;
+}
+
+.header .logo {
+  color: #f9faf8;
+  font-size: 24px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.nav-links ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
