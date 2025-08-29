@@ -26,9 +26,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 64px;
 }
 
-.nav-links {
+.nav-links,
+.hero-text p {
   color: #e5e7eb;
   font-size: 18px;
 }
@@ -37,4 +39,46 @@ body {
   display: flex;
   list-style: none;
   gap: 24px;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 64px;
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  max-width: 420px;
+  gap: 8px;
+}
+
+.hero-text h3 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.hero-text p {
+  max-width: 420px;
+}
+
+button.cta-primary {
+  align-self: flex-start;
+  padding: 6px 24px;
+  border-radius: 6px;
+  background-color: #3882f6;
+  border: none;
+  color: #f9faf8;
+}
+
+.hero-image {
+  height: 250px;
+  width: 500px;
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
