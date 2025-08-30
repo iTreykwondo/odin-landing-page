@@ -82,3 +82,41 @@ button.cta-primary {
   justify-content: center;
   align-items: center;
 }
+
+.info-section {
+  padding-top: 32px;
+}
+
+.info-section h3.title {
+  text-align: center;
+  font-size: 32px;
+  color: #1f2937;
+  font-weight: 900;
+}
+
+.card-section {
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+  padding-top: 64px;
+}
+
+.card {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-body {
+  height: 150px;
+  width: 150px;
+  border: 3px solid blue;
+  border-radius: 10px;
+}
+
+.card-subtext {
+  text-align: center;
+}
