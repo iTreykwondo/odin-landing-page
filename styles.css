@@ -147,3 +147,39 @@ button.cta-primary {
   align-self: flex-end;
   font-weight: 900;
 }
+
+.cta-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 120px;
+}
+
+.cta-card {
+  background-color: #3882f6;
+  width: 1100px;
+  padding: 64px 128px;
+  border-radius: 6px;
+  display: flex;
+  align-items: flex-end;
+  gap: 32px;
+  justify-content: space-around;
+}
+
+.cta-text h4.cta-title {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.cta-text p {
+  color: #f9faf8;
+  font-weight: 300;
+}
+
+.cta-button button.cta-secondary {
+  padding: 6px 32px;
+  background-color: #3882f6;
+  border: 1px solid #f9faf8;
+  border-radius: 6px;
+  color: #f9faf8;
+}
