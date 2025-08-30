@@ -99,6 +99,7 @@ button.cta-primary {
   gap: 32px;
   justify-content: center;
   padding-top: 64px;
+  padding-bottom: 64px;
 }
 
 .card {
@@ -119,4 +120,30 @@ button.cta-primary {
 
 .card-subtext {
   text-align: center;
+}
+
+.quote-section {
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote {
+  padding: 128px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 850px;
+}
+
+.quote-text {
+  text-align: left;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-author {
+  align-self: flex-end;
+  font-weight: 900;
 }
