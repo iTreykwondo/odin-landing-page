@@ -16,13 +16,6 @@ This is a simple **landing page** built as part of a front-end practice project.
 - **CSS3** – custom styles with flexbox and spacing scale
 - **Google Fonts** – Roboto for typography
 
-## 📂 Project Structure
-
-project-folder/
-│── index.html # Main HTML file
-│── style.css # Stylesheet
-│── README.md # Documentation
-
 ## 🎯 Lessons Learned
 
 - How to structure a layout with **flexbox**
