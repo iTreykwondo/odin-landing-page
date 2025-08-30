@@ -12,8 +12,8 @@ This is a simple **landing page** built as part of a front-end practice project.
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – semantic structure
-- **CSS3** – custom styles with flexbox and spacing scale
+- **HTML5**
+- **CSS3**
 - **Google Fonts** – Roboto for typography
 
 ## 🎯 Lessons Learned
