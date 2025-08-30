@@ -31,7 +31,7 @@ project-folder/
 
 ## 📸 Preview
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/trajanmiller/Documents/Projects/TOP/Foundations/CSS/odin-landing-page/screenshot-preview.png?version%3D1756596581777)
+![alt text](./screenshot-preview.png)
 
 ## 📌 Future Improvements
 
